@@ -1,2 +1,2 @@
 # AmberMash.github.io
-[game](/index.html)
+[game](/)
